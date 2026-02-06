@@ -3,6 +3,7 @@ import pandas as pd
 import joblib
 from huggingface_hub import hf_hub_download
 
+
 # App title
 st.title("Wellness Tourism Package Purchase Prediction")
 
