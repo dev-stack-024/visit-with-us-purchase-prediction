@@ -5,3 +5,4 @@ scikit-learn==1.6.1
 joblib
 huggingface_hub
 dill
+datasets
